@@ -13,8 +13,7 @@ DESCRIPTION:Iván Martínez is inviting you to a scheduled Zoom meeting.\n\
 LOCATION:https://utn.zoom.us/j/99810449973
 TIME: 15:00 TODOS LOS VIERNES.
 COMIENZA: 16 ago 2024 15:00 Buenos Aires, Georgetown
-16 ago 2024 15:00
-23 ago 2024 15:00
+
 30 ago 2024 15:00
 6 sept 2024 15:00
 13 sept 2024 15:00
